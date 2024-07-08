@@ -9,3 +9,14 @@ Aggiungere una select accanto al bottone di generazione, che fornisca una scelta
 - difficoltà 1 ⇒ 100 caselle, con un numero compreso tra 1 e 100, divise in 10 caselle per 10 righe;
 - difficoltà 2 ⇒ 81 caselle, con un numero compreso tra 1 e 81, divise in 9 caselle per 9 righe;
 - difficoltà 3 ⇒ 49 caselle, con un numero compreso tra 1 e 49, divise in 7 caselle per 7 righe;
+
+solition
+1-qui ora creo un array vuoto in cui andranno i miei numeri che ho generato per le bombe
+2-funzione per la creazione delle bombe nel mio gioco
+3-creo il mio ciclo per generare 16 numeri random da andare ad inserire nel mio array
+4-qui inserirò la mia operazione matematica per generare numeri random casuali
+5-creo la mia condizione per far si che dentro al mio array ci siano tutti numeri diversi.
+6-richiamo la mia funzione per farla funzionare
+7-creo una nuova variabile numero 
+8-creo una variabile somma e punteggio
+9-creo una funzione risultato
